@@ -6,3 +6,5 @@ The HTML for this extension contains a 'Save Input' button, a 'Save Tab' button,
 To use the extension, simply enter a website link into the input field and click the 'Save Input' button. To save the link from the current tab, click the 'Save Tab' button. All saved links will be displayed in the list on the page. To delete all saved links, double-click the 'Delete All' button. 
 
 This extension will allow users to quickly and easily save website links for future reference.
+
+Upload it to Extension and use it
